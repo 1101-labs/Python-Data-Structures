@@ -1,21 +1,33 @@
-Python Stack
+# Python Data Structures
 
-A simple implementation of a stack data structure in Python using the Last In, First Out principle. The last element added to the stack is the first one to be removed.
+A collection of common data structures implemented from scratch in Python for learning and practice.
 
-Operations
+## Data Structures
 
-Push: Add an element to the top of the stack.
+- Stack
 
-Pop: Remove and return the top element.
+- Linked List
 
-Peek: View the top element without removing it.
+- Queue
 
-is_empty: Check whether the stack is empty.
+- Binary Search Tree
 
-size: Check the number of elements in the stack.
+- Hash Table
 
-clear: Deletes every element in the stack.
+- Priority Queue / Heap
 
-Purpose
+## Goals
 
-This project is a learning exercise to understand how stack data structures work and how to implement them from scratch in Python.
+- Understand how data structures work internally.
+
+- Practice implementing data structures from scratch.
+
+## Language
+
+Python 3
+
+## Project Structure
+
+Each data structure has its own folder containing its implementation and documentation.
+
+## 
